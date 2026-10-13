@@ -1,2 +1,2 @@
-# campus-event-manager
-repo for managing task for campus events.
+## Usage
+To record a new campus event, append the date and title to `events.txt` and assign team members in `organizers.txt`.
